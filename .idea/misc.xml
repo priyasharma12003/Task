@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/btn_bg_design.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/email_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2203125" />
         <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/round_bg.xml" value="0.2203125" />
         <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/round_boarder.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/splashscreen_background.xml" value="0.2203125" />
         <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/wave1.xml" value="0.2203125" />
         <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/wave2.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/activity_home_screen.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/activity_login_screen.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Rahul/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
       </map>
